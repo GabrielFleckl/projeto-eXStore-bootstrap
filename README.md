@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Ao entrar no site, você será recebido por um <strong>carrossel de imagens</strong> que exibem os jogos mais recentes e populares em destaque. Jogos que serão exibidos em um cards com uma animações atraentes com puro <strong>CSS</strong>.
+Ao entrar no site, você será recebido por um <strong>carrossel de imagens</strong> que exibem os jogos mais recentes e populares em destaque. Jogos que serão exibidos em um cards com uma <strong>animações</strong> atraentes com puro <strong>CSS</strong>.
 
 O site foi criado com as tecnologias <strong> HTML, CSS, JavaScript, SASS e Bootstrap</strong>. Isso garantindo uma experiência de usuário suave e interativa, com uma interface moderna e <strong>responsiva</strong>, que se adapta a todos os dispositivos, <strong>desde desktops até smartphones</strong>.
 
