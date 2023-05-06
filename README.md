@@ -23,7 +23,7 @@
 
 Aqui você pode conferir o layout do projeto. <br>
 
-[👉 Link para visualizar a pagina completa](https://gabrielfleckl.github.io/projeto-pearson-hardman/)
+[👉 Link para visualizar a pagina completa](https://projeto-e-x-store-bootstrap.vercel.app/)
 
 
 <br>
